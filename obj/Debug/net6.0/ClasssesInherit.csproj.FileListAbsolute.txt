@@ -1,0 +1,15 @@
+C:\Users\25vallelonga0876\source\repos\ClasssesInherit\ClasssesInherit\bin\Debug\net6.0\ClasssesInherit.exe
+C:\Users\25vallelonga0876\source\repos\ClasssesInherit\ClasssesInherit\bin\Debug\net6.0\ClasssesInherit.deps.json
+C:\Users\25vallelonga0876\source\repos\ClasssesInherit\ClasssesInherit\bin\Debug\net6.0\ClasssesInherit.runtimeconfig.json
+C:\Users\25vallelonga0876\source\repos\ClasssesInherit\ClasssesInherit\bin\Debug\net6.0\ClasssesInherit.dll
+C:\Users\25vallelonga0876\source\repos\ClasssesInherit\ClasssesInherit\bin\Debug\net6.0\ClasssesInherit.pdb
+C:\Users\25vallelonga0876\source\repos\ClasssesInherit\ClasssesInherit\obj\Debug\net6.0\ClasssesInherit.csproj.AssemblyReference.cache
+C:\Users\25vallelonga0876\source\repos\ClasssesInherit\ClasssesInherit\obj\Debug\net6.0\ClasssesInherit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25vallelonga0876\source\repos\ClasssesInherit\ClasssesInherit\obj\Debug\net6.0\ClasssesInherit.AssemblyInfoInputs.cache
+C:\Users\25vallelonga0876\source\repos\ClasssesInherit\ClasssesInherit\obj\Debug\net6.0\ClasssesInherit.AssemblyInfo.cs
+C:\Users\25vallelonga0876\source\repos\ClasssesInherit\ClasssesInherit\obj\Debug\net6.0\ClasssesInherit.csproj.CoreCompileInputs.cache
+C:\Users\25vallelonga0876\source\repos\ClasssesInherit\ClasssesInherit\obj\Debug\net6.0\ClasssesInherit.dll
+C:\Users\25vallelonga0876\source\repos\ClasssesInherit\ClasssesInherit\obj\Debug\net6.0\refint\ClasssesInherit.dll
+C:\Users\25vallelonga0876\source\repos\ClasssesInherit\ClasssesInherit\obj\Debug\net6.0\ClasssesInherit.pdb
+C:\Users\25vallelonga0876\source\repos\ClasssesInherit\ClasssesInherit\obj\Debug\net6.0\ClasssesInherit.genruntimeconfig.cache
+C:\Users\25vallelonga0876\source\repos\ClasssesInherit\ClasssesInherit\obj\Debug\net6.0\ref\ClasssesInherit.dll
